@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ca31an</h1>
 
-<p align="left"><a href="https://github.com/ca31an"><img src="https://github-trophies.vercel.app/?username=ca31an&theme=onedark&no-frame=true&margin-w=6" alt="ca31an" /></a></p>
-
 - ⚡ Fun fact **Part time larper.**
 
 ## 🌐 Socials:
