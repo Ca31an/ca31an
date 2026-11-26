@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋, I'm Ca31an</h1>
 
+## 💫 About Me:
+- 🧠 Building my own AI from scratch using NumPy and more
+- 🖥️ Homelabbing (the goat)
+- 🇯🇵 Working on **Japal**, an Apple language learning app
 - ⚡ Fun fact **Part time larper.**
 
 ## 🌐 Socials:
@@ -32,6 +36,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
