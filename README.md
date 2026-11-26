@@ -8,6 +8,8 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/688401051950252057)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/cwthegoat)
+![Profile Views](https://komarev.com/ghpvc/?username=ca31an&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
